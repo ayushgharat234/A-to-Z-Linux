@@ -24,6 +24,7 @@ Linux is the backbone of modern computing, powering servers, embedded systems, a
 | **Networking and Security** | Explores networking tools, remote access, and basic security practices.         |
 | **Linux for Developers**    | Covers setting up development environments, Git, Docker, and containerization.  |
 | **Linux for DevOps**        | Introduces web servers, CI/CD tools, and automation with Ansible.               |
+| **Linux for Security**      | Focuses on hardening, auditing, protection, and compliance.                     |
 
 ---
 
